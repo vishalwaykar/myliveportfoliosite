@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/myliveportfoliosite/static/css/main.fc77be62.chunk.css",
+    "main.js": "/myliveportfoliosite/static/js/main.d884ecf6.chunk.js",
+    "main.js.map": "/myliveportfoliosite/static/js/main.d884ecf6.chunk.js.map",
+    "runtime-main.js": "/myliveportfoliosite/static/js/runtime-main.6bd7eb0f.js",
+    "runtime-main.js.map": "/myliveportfoliosite/static/js/runtime-main.6bd7eb0f.js.map",
+    "static/css/2.8885c1cd.chunk.css": "/myliveportfoliosite/static/css/2.8885c1cd.chunk.css",
+    "static/js/2.953be1a9.chunk.js": "/myliveportfoliosite/static/js/2.953be1a9.chunk.js",
+    "static/js/2.953be1a9.chunk.js.map": "/myliveportfoliosite/static/js/2.953be1a9.chunk.js.map",
+    "index.html": "/myliveportfoliosite/index.html",
+    "static/css/2.8885c1cd.chunk.css.map": "/myliveportfoliosite/static/css/2.8885c1cd.chunk.css.map",
+    "static/css/main.fc77be62.chunk.css.map": "/myliveportfoliosite/static/css/main.fc77be62.chunk.css.map",
+    "static/js/2.953be1a9.chunk.js.LICENSE.txt": "/myliveportfoliosite/static/js/2.953be1a9.chunk.js.LICENSE.txt",
+    "static/media/androiddev.1d3182b6.svg": "/myliveportfoliosite/static/media/androiddev.1d3182b6.svg",
+    "static/media/appdev.045455b2.svg": "/myliveportfoliosite/static/media/appdev.045455b2.svg",
+    "static/media/digibrand.8bb97c49.svg": "/myliveportfoliosite/static/media/digibrand.8bb97c49.svg",
+    "static/media/digitalmark.603683b3.svg": "/myliveportfoliosite/static/media/digitalmark.603683b3.svg",
+    "static/media/hero.d6290037.svg": "/myliveportfoliosite/static/media/hero.d6290037.svg",
+    "static/media/image2.4715ac4b.svg": "/myliveportfoliosite/static/media/image2.4715ac4b.svg",
+    "static/media/softdev.cd4da263.svg": "/myliveportfoliosite/static/media/softdev.cd4da263.svg",
+    "static/media/webdev.7a675bbb.svg": "/myliveportfoliosite/static/media/webdev.7a675bbb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bd7eb0f.js",
+    "static/css/2.8885c1cd.chunk.css",
+    "static/js/2.953be1a9.chunk.js",
+    "static/css/main.fc77be62.chunk.css",
+    "static/js/main.d884ecf6.chunk.js"
+  ]
+}
